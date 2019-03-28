@@ -4,8 +4,8 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Music Random</title>
-	<link rel="stylesheet" href="aplayer/dist/APlayer.min.css">
-	<script src="aplayer/dist/APlayer.min.js"></script>
+	<link rel="stylesheet" href="APlayer.min.css">
+	<script src="APlayer.min.js"></script>
 
 </head>
 
